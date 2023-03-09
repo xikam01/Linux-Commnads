@@ -1,10 +1,10 @@
-How to uninstall Postgresql 🥰️
+How to uninstall Postgresql 🥰️/ sida looga saaro postgres ka LInuxka
 
 1) sudo apt-get --purge remove postgresql
 2)dpkg -l | grep postgres
 3)apt-get --purge remove package1 package2
 
-ApAdmin Uninstall 🥰️
+ApAdmin Uninstall 🥰️/sida looga saaro Pgadmin Linux
 1)sudo apt -y remove pgadmin4
 2)sudo apt -y autoremove pgadmin4*
 3)sudo apt -y install  pgadmin4-desktop*=6.9 pgadmin4-server*=6.9
